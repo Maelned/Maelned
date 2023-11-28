@@ -2,7 +2,6 @@
 - 👀 I’m interested in Machine Learning and Data science.
 - 🌱 I’m currently learning to improve my knwoledge in data science and machine learning through kaggle courses and competitions and other open courses.
 - 📫 How to reach me : On linkedin : www.linkedin.com/in/mael-nedellec
-- 🌐 https://www.hackerrank.com/mael_nedlc?hr_r=1
 
 
 <!---
